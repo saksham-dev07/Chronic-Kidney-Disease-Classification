@@ -147,5 +147,4 @@ CKD          2     28
 - **Mobile Health**: Point-of-care deployment strategies
 
 ---
-
-**Clinical Disclaimer**: This model is designed as a clinical decision support tool and should not replace professional medical judgment. All diagnostic decisions should be made by qualified healthcare professionals based on comprehensive patient evaluation.
+![screencapture-colab-research-google-drive-1YQNTypJ2FUgD6IyUa60yd4Po1c9RmSRW-2025-07-05-21_25_51](https://github.com/user-attachments/assets/d55fc8a5-636b-43a2-8254-e98598f5e473)
